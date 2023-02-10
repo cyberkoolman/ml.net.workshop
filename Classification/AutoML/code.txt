@@ -1,0 +1,1 @@
+mlnet classification --dataset .\wikiDetoxAnnotated40kRows.tsv --label-col Label --has-header true --ignore-cols rev_id, year, logged_in, ns, sample, split --name Sentiment

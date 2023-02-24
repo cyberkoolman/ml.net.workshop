@@ -1,0 +1,9 @@
+BERT (Bidirectional Encoder Representations from Transformers) is an advanced natural language processing (NLP) model developed by Google. It uses a transformer-based architecture that allows it to process text inputs in a bidirectional manner, meaning it considers both the left and right context of each word in the input text.
+
+- Who developed the BERT model?
+
+The Atlanta Hawks fired coach Nate McMillan on Tuesday, clearing the way for an immediate search that will start with leading candidate Quin Snyder, sources told ESPN. The Hawks made assistant Joe Prunty the interim coach of a team that is 29-30 and in eighth place in the Eastern Conference, but new general manager Landry Fields will begin pursuit of the franchise's next coach as soon as Tuesday, sources said.
+
+- Who just got fired?
+
+- Who is likely going to be the next coach for Hawks?
